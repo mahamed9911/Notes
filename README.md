@@ -7,3 +7,7 @@ users can add delete or update notes
 users must sign in 
 
 uses Firebase for user authentication and as a database 
+
+users can change to dark or light mode
+
+
